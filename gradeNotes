@@ -1,0 +1,31 @@
+Check list for laboratory reports.
+
+Formato y forma:
+- [ ] Ortografía: Muchas faltas de ortografa.
+- [ ] Estilo: La redacción debe ser muy formal, consideren redactar sin querer dar tantas vueltas a la información; evité cantinflear.
+- [x] Estructura
+- [x] Originalidad
+- [ ] Imágenes, Tablas y Referencias
+- [ ] Estilo de referencias
+
+Contenido:
+- [x] Introducción
+- [x] Metodología
+- [x] Desarrollo
+- [x] Simulación
+- [x] Resultados 
+- [x] Conclusiones
+
+Comparación de los resultados:
+- [ ] Scilab y Ecuaciones: exp(argumento del exponente)
+- [x] Respuesta al escalón
+- [ ] Modos de operación del sistema Wo=Wi, Wo><Wi: La función no funciona en uno de los casos
+- [x] Conclusiones
+
+Repositorio:
+- [ ] Carpetas
+- [ ] Código Scilab
+- [ ] Código de Latex
+- [x] Entregado en tiempo
+
+Grade = 82
